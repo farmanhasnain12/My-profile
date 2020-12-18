@@ -1,0 +1,230 @@
+div{
+
+
+}
+body{
+  color:#40514E;
+  margin: 0px;
+  text-align: center;
+  font-size: 2em;
+}
+.title {
+  color: grey;
+  font-size: 18px;
+}
+p{
+  font-size: 20px;
+  line-height: 2;
+}
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  msrgin:100px;
+
+}
+a{
+  color:#11999E;
+  margin: 10px 20px;
+  text-decoration: none;
+
+}
+a:hover{
+color :#EAF6F6;
+}
+.temp{
+
+}
+
+/*
+
+for icon
+flaticon.com
+
+and for ghiphy
+giphy.com
+
+16px=100%=1em
+
+
+*/
+.contact-me{
+  width: 40%;
+  margin:auto;
+}
+.intro{
+width: 30%;
+margin: auto;
+
+}
+.top-container{
+  background-color:#EAF9F5;
+  position: relative;
+  padding-top:100px;
+
+}
+h1{
+  margin-top:0;
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive;
+  color :#66bfbf;
+}
+.paragrpah{
+  font-family: 'Montserrat', sans-serif;
+  color :#66bfbf;
+  font-weight: bold;
+}
+.paragrpah1{
+  font-family: 'Montserrat', sans-serif;
+  color:#000000;
+  font-weight: bold;
+}
+.font-size{
+  font-size: 30px;
+
+}
+.skill-row33{
+  width:75%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 1;
+
+
+
+
+}
+h2{
+  padding-bottom: 10px;
+  font-family: 'Montserrat', sans-serif;
+  color :#66bfbf;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color :#11999e;
+  font-size: 30px;
+}
+.middle-container{
+margin: 100px 0;
+}
+.main-pic{
+  width: 25%;
+}
+.set_width{
+  width: 600px;
+  height:600px;
+}
+.bottom-container{
+background-color: #66bfbf;
+padding: 50px 0 20px;
+}
+.code-img{
+  width:25%;
+  float:left;
+  margin-right: 40px;
+}
+.code-img1{
+  width:25%;
+  float:right;
+  margin-left:40px;
+}
+.individual{
+  line-height: 1;
+}
+.skill-row{
+  width:60%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 1;
+  padding: 20px;
+
+}
+.bottom-cloud{
+  position: absolute;
+  left:150px;
+  bottom:500px;
+}
+.top-cloud{
+  position: absolute;
+  right:150px;
+  top:50px;
+
+
+}
+
+
+
+
+
+
+
+
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+
+
+
+
+.btn {
+   background: #11CDD4;
+   background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -webkit-gradient(to bottom, #11CDD4, #11999E);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: Arial;
+   font-size: 23px;
+   font-weight: 200;
+   padding: 22px;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: -40px 1px 20px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn:hover {
+   border: solid #337FED 1px;
+   background: #30E3CB;
+   background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: -webkit-gradient(to bottom, #30E3CB, #2BC4AD);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
